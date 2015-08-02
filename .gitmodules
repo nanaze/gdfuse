@@ -1,0 +1,3 @@
+[submodule "third_party/fuse"]
+	path = third_party/fuse
+	url = git://git.code.sf.net/p/fuse/fuse

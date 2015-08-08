@@ -4,3 +4,6 @@
 
 # ignore bazel dirs
 bazel-*
+
+# ignore build dir
+bin/
